@@ -1,0 +1,86 @@
+{
+    "products": [
+        {
+            "id": 2,
+            "name": "Iphone",
+            "price": 15000000,
+            "category": "iphone",
+            "descreption": "the iphone the most expensive one",
+            "quantity": "5",
+            "in_stock": true
+        },
+        {
+            "id": 3,
+            "name": "iphone 11",
+            "price": 2000,
+            "category": "iphone",
+            "descreption": "memory 64 GB capacity 78 ",
+            "quantity": "1",
+            "in_stock": true
+        },
+        {
+            "id": 4,
+            "name": "hp laptop",
+            "price": 4125000,
+            "category": "laptop",
+            "descreption": "the laptop is great im terms of working at accounting but not about of coding",
+            "quantity": "15",
+            "in_stock": true
+        },
+        {
+            "id": 5,
+            "name": "apple watch ",
+            "price": 1000000000,
+            "category": "watch",
+            "descreption": "battery is great and quality of screen is good",
+            "quantity": "8",
+            "in_stock": true
+        },
+        {
+            "id": 6,
+            "name": "watch",
+            "price": 123852,
+            "category": "watch",
+            "descreption": "6",
+            "quantity": "1",
+            "in_stock": true
+        },
+        {
+            "id": 7,
+            "name": "car",
+            "price": 1200000,
+            "category": "car",
+            "descreption": "name of the car is nexia and manfactured at 2023",
+            "quantity": "5",
+            "in_stock": true
+        },
+        {
+            "id": 8,
+            "name": "iphone 17 pro max",
+            "price": 1450000,
+            "category": "iphone",
+            "descreption": "the latest product of apple company",
+            "quantity": "85",
+            "in_stock": true
+        },
+        {
+            "id": 9,
+            "name": "iphone ",
+            "price": 120000,
+            "category": "iphone",
+            "descreption": "the iphone is great and if you will buy it until 20 of the may, you will have 50% discound",
+            "quantity": "21",
+            "in_stock": true
+        },
+        {
+            "id": 10,
+            "name": "notebook",
+            "price": 1200,
+            "category": "copybook",
+            "descreption": "chapter of copybook is 36 and made od tree",
+            "quantity": "852",
+            "in_stock": true
+        }
+    ],
+    "current_id": 12
+}
